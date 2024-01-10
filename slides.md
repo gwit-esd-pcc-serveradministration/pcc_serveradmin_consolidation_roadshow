@@ -71,6 +71,5 @@ style: |
 - Use the new email addresses and team names.
 - Honor the on-call calendar, call the secondary if the primary doesn’t answer.
   - DO NOT PICK based on known skill set.
-- Submit firewall tickets, it’s a logistical drain on the admins
-- Collaborate for application architecture diagrams.
+- Collaborate for application architecture diagrams and other service documentation.
 - Learn with us.
